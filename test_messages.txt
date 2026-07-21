@@ -1,0 +1,48 @@
+#Lottery scam:
+{
+Conratulations,
+won,
+reward
+creates excitement!
+claim,
+suspicious URL,
+click here
+asks to click at suspicious URL!
+}
+#Bank scams:
+{
+verify
+suspended
+account
+immediately
+creates urgency!
+login,
+suspiciousURL
+asks to click at suspicious URL!
+}
+#Delivery scams:
+{
+unknown parcel
+Delivery
+update
+address
+24 hours
+creates urgency!
+}
+#OTP scams:
+{
+OTP,
+share,
+immediately,
+secure,
+account
+Ask's for details!
+}
+#Tax scams:
+{
+refund,
+PAN,
+bank details,
+submit,
+Pretends to be any company!
+}

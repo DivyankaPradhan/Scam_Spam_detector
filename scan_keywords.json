@@ -1,0 +1,179 @@
+{
+"Lottery_scam":
+[
+    {
+        "p":"congratulations!",
+        "w":20,
+        "r":"Creates excitement!"
+    },
+    {
+        "p":"reward",
+        "w":20,
+        "r":"Creates excitement!"
+    },
+    {
+        "p":"claim",
+        "w":30,
+        "r":"Creates excitement!"
+    },
+    {
+        "p":"click here",
+        "w":40,
+        "r":"Asking to click at suspicious URL's"},
+    {
+        "p":"prize",
+        "w":10,
+        "r":"Creates excitement!"}
+],
+"bank_scams":
+[
+    {
+        "p":"verify",
+        "w":10,
+        "r":"Asking you to verify details!"
+    },
+    {
+        "p":"suspended",
+        "w":10,
+        "r":"suspicious"
+    },
+    {
+        "p":"account",
+        "w":10,
+        "r":"Might ask for bank details"
+    },
+    { 
+        "p":"immediately",
+        "w":30,
+        "r":"Creates excitement!"
+    },
+    {
+        "p":"login",
+        "w":20,
+        "r":"Asking you to verify details!"
+    },
+    {
+        "p":"urgent",
+        "w":10,
+        "r":"Creates urgency!"
+    },
+    {
+        "p":"₹",
+        "w":20,
+        "r":"Might ask for money"
+    }
+],
+"Delivery_scams":
+[
+    { 
+        "p":"parcel",
+        "w":10,
+        "r":"Unknown parcel!"
+    },
+    {
+        "p":"delivery",
+        "w":10,
+        "r":"Might be a scam"
+    },
+    {
+        "p":"update",
+        "w":10,
+        "r":"Might ask for details"
+    },
+    {
+        "p":"address",
+        "w":10,
+        "r":"Asking you to verify details!"
+    },
+    {
+        "p":"hours",
+        "w":20,
+        "r":"Creates urgency!"
+    }
+],
+"OTP_scams":
+[
+
+    {
+        "p":"immedaitely",
+        "w":20,
+        "r":"Creates urgency!"
+    },
+    {
+        "p":"sharing",
+        "w":30,
+        "r":"Asking to click at suspicious URL's"
+    },
+    {
+        "p":"account",
+        "w":10,
+        "r":"Might ask for details"
+    },
+    {
+        "p":"secure",
+        "w":30,
+        "r":"Creates excitement!"
+    },
+    {
+        "p":"free",
+        "w":20,
+        "r":"Creates excitement!"
+    }
+],
+"Tax_scams":
+[
+    {
+        "p":"refund",
+        "w":30,
+        "r":"Might ask for money"
+    },
+    {
+        "p":"PAN",
+        "w":20,
+        "r":"Asking you to verify details!"
+    },
+    {
+        "p":"bank details",
+        "w":40,
+        "r":"Asking you to verify details!"
+    },
+    {
+        "p":"submit",
+        "w":20,
+        "r":"Might ask for details"
+    }
+],
+"impersonation_keywords": 
+[
+    {
+        "p": "amazon",
+        "w":5,
+        "r": "Mentions Amazon"
+    },
+    {
+        "p": "google",
+        "w":5,
+        "r": "Mentions Google"
+    },
+    {
+        "p": "microsoft",
+        "w":5,
+        "r": "Mentions Microsoft"
+    },
+    {
+        "p": "paypal",
+        "w":5,
+        "r": "Mentions PayPal"
+    },
+    {
+        "p": "state bank of india",
+        "w":5,
+        "r": "Mentions SBI"
+    },
+    {
+        "p": "income tax department",
+        "w":5,
+        "r": "Pretends to be the Income Tax Department"
+    }
+]
+}
