@@ -8,7 +8,7 @@ def detect(message,key):
             p=key_index["p"]                    #p=inner dicts value
 
             if p in message:
-                matches.append(key_index)   #appended all the 'whole' inner dicts that contain the p
+                matches.append(key_index)       #appended all the 'whole' inner dicts that contain the p
                 risk_score+=key_index["w"]
     match=re.search(r"https?//\S+",message)    
     if match:
